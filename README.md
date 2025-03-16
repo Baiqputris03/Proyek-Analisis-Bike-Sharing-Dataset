@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk menganalisis data penyewaan sepeda dengan fokus pada 
 
 Pastikan Anda telah menginstal:
 
-- Python 3.7 atau versi lebih baru
+- Python 3.9 atau versi lebih baru
 - pip (Python package manager)
 
 
